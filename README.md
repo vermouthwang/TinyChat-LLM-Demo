@@ -1,6 +1,8 @@
 # TinyChat: Optimizing LLM on Edge Devices
 
 This is a lab for [efficientml.ai course](https://efficientml.ai/).
+demo video:
+https://youtu.be/mvbwh-15goA?si=WXaLEXhytLNX2_Sz
 
 Running large language models (LLMs) on the edge is of great importance. By embedding LLMs directly into real-world systems such as in-car entertainment systems or spaceship control interfaces, users can access instant responses and services without relying on a stable internet connection. Moreover, this approach alleviates the inconvenience of queuing delays often associated with cloud services. As such, running LLMs on the edge not only enhances user experience but also addresses privacy concerns, as sensitive data remains localized and reduces the risk of potential breaches.
 
@@ -28,5 +30,4 @@ This repo include:
 
 [transformers](https://github.com/huggingface/transformers)
 
-demo video:
-https://youtu.be/mvbwh-15goA?si=WXaLEXhytLNX2_Sz
+
